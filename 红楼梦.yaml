@@ -1,0 +1,91 @@
+- husband: 宁公
+  children:
+    - name: 贾代化
+      sex: 男
+- husband: 贾代化
+  children:
+    - name: 贾敷
+      sex: 男
+    - name: 贾敬
+      sex: 男
+- husband: 贾敬
+  children:
+    - name: 贾珍
+      sex: 男
+- husband: 贾珍
+  children:
+    - name: 贾蓉
+      sex: 男
+- husband: 贾蓉
+  wifes:
+    - 秦可卿
+- husband: 贾源
+  children:
+    - name: 贾代善
+      sex: 男
+- husband: 贾代善
+  wifes:
+    - 史氏
+  children:
+    - name: 贾赦
+      sex: 男
+    - name: 贾政
+      sex: 男
+    - name: 贾敏
+      sex: 女
+- husband: 林如海
+  wifes:
+    - 贾敏
+  children:
+    - name: 林黛玉
+      sex: 女
+- husband: 贾赦
+  wifes:
+    - 邢氏
+  children:
+    - name: 贾琏
+      sex: 男
+    - name: 贾迎春
+      sex: 女
+- husband: 王子腾之父
+  wifes:
+    - 王子腾之母
+  children:
+    - name: 王子腾
+      sex: 男
+    - name: 王氏1
+      sex: 女
+    - name: 王氏2
+      sex: 女
+- husband: 贾政
+  wifes:
+    - 王氏1
+  children:
+    - name: 贾珠
+      sex: 男
+    - name: 贾元春
+      sex: 女
+    - name: 贾宝玉
+      sex: 男
+    - name: 贾探春
+      sex: 女
+    - name: 贾惜春
+      sex: 女
+- husband: 李守中
+  children:
+    - name: 李纨
+      sex: 女
+- husband: 贾珠
+  wifes:
+    - 李纨
+  children:
+    - name: 贾兰
+      sex: 男
+- husband: 薛蟠之父
+  wifes:
+    - 王氏2
+  children:
+    - name: 薛蟠
+      sex: 男
+    - name: 薛宝钗
+      sex: 女
